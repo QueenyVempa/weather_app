@@ -6,7 +6,7 @@ Features
 Features
 
 -Get real-time weather data by city name
--Fetch weather using current location (Geolocation API)
+-Fetch weather using current location (Geolocation API) 
 -Display temperature, weather condition, and location details
 -Dynamic UI updates using JavaScript
 -Responsive design for different screen sizes
