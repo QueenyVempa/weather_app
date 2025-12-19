@@ -1,22 +1,23 @@
-To-Do List Web Application
+Weather Forecast Web Application
 
-A simple and interactive To-Do List web application built using HTML, CSS, and JavaScript. This project helps users manage daily tasks efficiently with persistent storage using the browser’s Local Storage.
+A responsive Weather Forecast Web Application built using HTML, CSS, and JavaScript that displays real-time weather information based on user search or current location using Weather APIs.
+Features
 
 Features
 
--Add new tasks easily
--Mark tasks as completed
--Delete tasks when no longer needed
--Persistent data storage using Local Storage
--Displays the current date dynamically
--Clean and user-friendly interface
+-Get real-time weather data by city name
+-Fetch weather using current location (Geolocation API)
+-Display temperature, weather condition, and location details
+-Dynamic UI updates using JavaScript
+-Responsive design for different screen sizes
 
 Tech Stack
 
--HTML – Structure of the application
--CSS – Styling and layout
--JavaScript – Application logic and interactivity
--Local Storage – Client-side data persistence
+HTML – Structure of the web application
+CSS – Styling and responsive layout
+JavaScript – Application logic and API integration
+Weather API – Fetch real-time weather data
+Geolocation API – Detect user’s current location
 
 Project Structure
 
@@ -29,7 +30,7 @@ To-Do-List/
 
 Learning Outcomes
 
--Hands-on experience with DOM manipulation and event handling
--Understanding of frontend state management
--Practical usage of Local Storage for persistent data
--Improved skills in building real-world JavaScript-based web applications
+Hands-on experience with API integration and asynchronous JavaScript
+Understanding of fetch API, promises, and error handling
+Practical use of browser Geolocation API
+Improved frontend development and UI design skills
