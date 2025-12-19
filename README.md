@@ -21,8 +21,6 @@ Geolocation API – Detect user’s current location
 
 Project Structure
 
-To-Do-List/
-│
 ├── index.html     
 ├── style.css       
 ├── script.js       
