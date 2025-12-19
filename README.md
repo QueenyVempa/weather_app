@@ -1,22 +1,35 @@
-# Simple Weather App Tutorial
+To-Do List Web Application
 
-<p align="left">
-  <a href="https://discord.gg/fPrdqh3Zfu" alt="Dev Pro Tips Discussion & Support Server">
-    <img src="https://img.shields.io/discord/819650821314052106?color=7289DA&logo=discord&logoColor=white&style=for-the-badge"/></a>
-</p>
+A simple and interactive To-Do List web application built using HTML, CSS, and JavaScript. This project helps users manage daily tasks efficiently with persistent storage using the browser’s Local Storage.
 
-Simple weather app using HTML, CSS, and JavaScript
+Features
 
-![image](https://user-images.githubusercontent.com/20955511/111051345-0bcff300-845b-11eb-80ca-717a9a838e2c.png)
+-Add new tasks easily
+-Mark tasks as completed
+-Delete tasks when no longer needed
+-Persistent data storage using Local Storage
+-Displays the current date dynamically
+-Clean and user-friendly interface
 
-## Tutorial
+Tech Stack
 
-Weather App Tutorial 👉 https://youtube.com/watch?v=WZNG8UomjSI
+-HTML – Structure of the application
+-CSS – Styling and layout
+-JavaScript – Application logic and interactivity
+-Local Storage – Client-side data persistence
 
-Geolocation Tutorial 👉 https://youtube.com/watch?v=JdJ2VBbYYTQ
+Project Structure
 
-## Demo site
+To-Do-List/
+│
+├── index.html     
+├── style.css       
+├── script.js       
+└── README.md       
 
-Without Geolocation 👉 https://freshidea.com/jonah/app/weather
+Learning Outcomes
 
-With Geolocation 👉 https://freshidea.com/jonah/app/weather/geolocation
+-Hands-on experience with DOM manipulation and event handling
+-Understanding of frontend state management
+-Practical usage of Local Storage for persistent data
+-Improved skills in building real-world JavaScript-based web applications
